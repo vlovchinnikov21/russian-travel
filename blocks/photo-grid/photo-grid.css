@@ -1,0 +1,6 @@
+.photo-grid {
+    width: 90%;
+    display: grid;
+    margin: auto;
+    gap: 12px;
+}

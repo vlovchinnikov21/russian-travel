@@ -1,0 +1,6 @@
+.places {
+    margin: 64px auto 66px;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
