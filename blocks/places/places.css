@@ -4,3 +4,26 @@
     flex-direction: column;
     color: #fff;
 }
+
+@media screen and (min-width: 720px) {
+    .places {
+        width: 720px;
+        margin-top: 88px;
+        margin-bottom: 90px;
+    }
+}
+
+@media screen and (min-width: 928px) {
+    .places {
+        width: 928px;
+        margin-top: 92px;
+        margin-bottom: 92px;
+    }
+}
+
+@media screen and (min-width: 1184px) {
+    .places {
+        width: 984px;
+    }
+}
+

@@ -11,3 +11,15 @@
   margin: 15px 0 0;
   text-decoration: none;
 }
+
+@media screen and (min-width: 720px) {
+  .header__lang-link {
+    margin-right: 18px;
+    margin-top: 18px;
+    font-size: 24px;
+    line-height: 1.17;
+  }  
+  .header__lang-link:last-child {
+    margin: 18px 0 0;
+  }
+}

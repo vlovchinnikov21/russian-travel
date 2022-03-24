@@ -1,6 +1,18 @@
 .page {
-    background: #2A2C2F;
-    max-width: 100%;
-    margin: 0 auto;
-    font-family: 'Inter', 'Arial', 'Helvetica Neue', sans-serif;
+  background: #2A2C2F;
+  margin: 16px auto 0;
+  font-family: 'Inter', 'Arial', 'Helvetica Neue', sans-serif;
+  min-width: 320px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
 }
+
+@media screen and (min-width: 720px) {
+    .page {
+       margin-top: 28px; 
+    }
+  }

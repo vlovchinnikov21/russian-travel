@@ -5,8 +5,17 @@
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     text-align: center;
     color: #fff;
     position: relative;
+}
+
+@media screen and (min-width: 720px) {
+    .cover__subtitle {
+        max-width: 360px;
+        margin-top: 32px;
+        font-size: 18px;
+        line-height: 1.22;
+    }
 }

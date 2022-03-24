@@ -2,3 +2,23 @@
     margin-bottom: 64px;
     max-width: 100%;
 }
+
+@media screen and (min-width: 720px) {
+    .cover {
+        margin-bottom: 88px;
+    }    
+}
+
+@media screen and (min-width: 928px) {
+    .cover {
+        margin-bottom: 92px;
+    }    
+}
+
+@media screen and (min-width: 1184px) {
+    .cover {
+        width: 1184px;
+        margin-left: auto;
+        margin-right: auto;
+    }    
+}
