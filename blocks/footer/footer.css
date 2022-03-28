@@ -8,7 +8,7 @@
 
 @media screen and (min-width: 720px) {
     .footer {
-        max-width: 720px;
+        max-width: 93.75%;
         margin: 0 auto 24px;
         flex-direction: row;
         justify-content: space-between;
@@ -17,12 +17,12 @@
 
 @media screen and (min-width: 928px) {
     .footer {
-        max-width: 928px;
+        max-width: 90.625%;
     }
 }
 
 @media screen and (min-width: 1184px) {
     .footer {
-        max-width: 1184px;
+        max-width: 92.5%;
     }
 }

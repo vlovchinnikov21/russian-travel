@@ -7,7 +7,7 @@
 
 @media screen and (min-width: 720px) {
     .places {
-        width: 720px;
+        width: 93.75%;
         margin-top: 88px;
         margin-bottom: 90px;
     }
@@ -15,7 +15,7 @@
 
 @media screen and (min-width: 928px) {
     .places {
-        width: 928px;
+        width: 90.625%;
         margin-top: 92px;
         margin-bottom: 92px;
     }
@@ -23,7 +23,7 @@
 
 @media screen and (min-width: 1184px) {
     .places {
-        width: 984px;
+        width: 76.875%;
     }
 }
 

@@ -5,11 +5,16 @@
   font-size: 18px;
   line-height: 1.11;
   color: #fff;
+  text-decoration: none;
+  transition: opacity .4s;
 }
 
 .header__lang-link:last-child {
   margin: 15px 0 0;
-  text-decoration: none;
+}
+
+.header__lang-link:hover {
+  opacity: .8;
 }
 
 @media screen and (min-width: 720px) {

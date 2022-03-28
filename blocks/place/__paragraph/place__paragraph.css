@@ -10,7 +10,7 @@
 
 @media screen and (min-width: 720px) {
     .place__paragraph {
-        max-width: 352px;
+        max-width: 100%;
         margin-top: 25px;
         margin-right: 0;
         margin-left: 0;
@@ -23,14 +23,8 @@
 
 @media screen and (min-width: 928px) {
     .place__paragraph {
-        max-width: 456px;
         margin-top: 26px;
         font-size: 18px;
     }
 }
 
-@media screen and (min-width: 1184px) {
-    .place__paragraph {
-        max-width: 484px;
-    }
-}
