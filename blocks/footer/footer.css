@@ -23,6 +23,6 @@
 
 @media screen and (min-width: 1184px) {
     .footer {
-        max-width: 92.5%;
+        max-width: 1184px;
     }
 }

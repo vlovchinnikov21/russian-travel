@@ -23,7 +23,7 @@
 
 @media screen and (min-width: 1184px) {
     .photo-grid {
-        max-width: 92.5%;
+        max-width: 1184px;
         gap: 16px;
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
